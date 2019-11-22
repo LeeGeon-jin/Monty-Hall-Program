@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Box
+comment1.params=name
+comment1.target=Box(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.Boolean\ getIsPrize()
+comment5.params=newIsPrize
+comment5.target=void\ setIsPrize(boolean)
+numComments=6
